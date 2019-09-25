@@ -48,7 +48,7 @@ def getListPaths():
 def main():
 	#getListPaths()	
 	saveList('autoTags')
-	saveList('requestAttributes')
+	saveList('services/requestAttributes')
 	saveList('managementZones')
 	saveList('anomalyDetection/diskEvents')
 	saveList('applications/web')
